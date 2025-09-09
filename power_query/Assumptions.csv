@@ -1,0 +1,4 @@
+Scenario,η_V2X,η_BESS,ε
+Base,0.90,0.88,0.001
+Optimistic,0.92,0.91,0.001
+Pessimistic,0.85,0.85,0.001
